@@ -1,8 +1,52 @@
-* {
-    background-color:pink;
+html {
+    font-size: 20px;
+}
+#container {
+    font-size: 30px;
+}
+#container > div {
+    background-color:yellow;
+    margin-bottom: 15px;
+    height: 35px;
 }
 
-#green {
-    position: relative;
-    width: 
+#pixele {
+    width: 400px;
 }
+
+#em {
+    width: 100em;
+    
+}
+
+#ex {
+    width: 20ex;
+}
+
+#rem {
+    width: 40rem;
+}
+
+#procenty  {
+    
+    width: 50%;
+}
+
+#vw  {
+    
+    width: 60vw;
+}
+#vh  {
+    width: 60vh;
+}
+
+
+#vmin  {
+    width: 60vmin;
+}
+
+#vmax  {
+    width: 60vmax;
+}
+
+
