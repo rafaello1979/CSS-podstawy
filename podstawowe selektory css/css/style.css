@@ -1,0 +1,14 @@
+/* Selektor znacznika */
+p{
+    color:grey;
+}
+li > a {
+    background-color:yellow;
+}
+h2 + h3 {
+    color:green;
+}
+ul > li:not(.last) {
+    color:violet;
+}
+ol > li:nth-child(5)
