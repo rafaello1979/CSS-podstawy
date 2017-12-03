@@ -1,35 +1,32 @@
-* {
-    background-color:pink;
+body {
+    background-color: aqua;
 }
+div {
+    margin-bottom: 5px;
+}
+#kolory predefinowane  {
+    
+    width:200px;
+    height:100;
+    background-color: 
+}
+#kolory heksadecymalne   {
+    
+    width:200px;
+    height:100;
+    background-color: #c14545
+}
+#kolory heksadecymalne- zapis skrócony  {
+    
+    width:200px;
+    height:100;
+    background-color: #1a9b1a
+        
+#kolory funkcja rgba    
 
-#green {
-    position: relative;
-    width: 100px;
-    height: 200px;
-    top: 20px;
-    left: 20px;
-    background-color: green
-}
-#red {
-    position:absolute;
-    top: 20px;
-    left: 40px;
-    width: 100px;
-    height: 50px;
-    background-color: red;
     
-}
-#blue {
-    width: 100px;
-    height: 50px;
-    background-color: blue;
+    width:200px;
+    height:100;
+    background-color: #1a9b1a
+        
     
-}
-#zafiksowany {
-    background-color: lime;
-    position: fixed;
-    width: 200px;
-    height: 200px;
-    top:30px;
-    right: 40px
-}
